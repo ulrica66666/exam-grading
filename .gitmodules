@@ -3,3 +3,6 @@
   url = git@github.com:ulrica66666/learning-cxx.git
   branch = main
 
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:ulrica66666/learning-lm-rs.git
